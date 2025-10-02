@@ -1,9 +1,5 @@
 # TPOP Dashboard – Power BI Project
 
-## Dashboard Preview
-![Dashboard Preview](TPOP Dashboard.png)
-
-
 The TPOP dashboard focuses on analyzing training outcomes by visualizing:
 - Average scores across TPOP (Team Participation and Observation Profile) Questionnaire
 - Engagement trends over time
